@@ -30,7 +30,7 @@ The report uses **RFM scoring logic** (Recency, Frequency, Monetary) to assign e
 | KPI Card | **Repeat Rate** | % of customers who returned for a 2nd+ purchase |
 | Matrix   | **R Score × F Score matrix** | Cross-tab of Recency and Frequency scores showing customer count per cell — maps the full RFM distribution |
 
-(dashboard.png)<img width="1452" height="801" alt="Screenshot 2026-04-18 224823" src="https://github.com/user-attachments/assets/caa9e735-ce6e-4012-8780-85c75d7896be" />
+(dashboard.png)<[img width="1452" height="801" alt="Screenshot 2026-04-18 224823" src=(https://github.com/deepikadhondiyal-analyst/RFM-Analysis/blob/main/Screenshot%202026-06-01%20135441.png) />
 
 
 ### Page 2 — Customer Behavior Analysis
