@@ -137,6 +137,6 @@ DIVIDE(
 
 **[Deepika Dhondiyal]**  
 Data Analyst | Power BI | DAX | SQL | Excel
-[LinkedIn](www.linkedin.com/in/deepikadhondiyalofficial)
+[LinkedIn](https://www.linkedin.com/in/deepikadhondiyalofficial)
 
 ---
