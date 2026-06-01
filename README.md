@@ -44,7 +44,7 @@ The report uses **RFM scoring logic** (Recency, Frequency, Monetary) to assign e
 > **Bookmarks** allow the user to toggle between Revenue view and Profit view on the same chart space — a clean UX pattern for executive reporting.
 
 ---
-
+![Dashboard Screenshot](https://github.com/deepikadhondiyal-analyst/RFM-Analysis/blob/main/Screenshot%202026-06-01%20135649.png)
 
 ## 🧮 RFM Scoring Framework [Excel]
 
