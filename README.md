@@ -69,7 +69,7 @@ Customers are scored on each dimension and the **Rf_score** (combined Recency + 
 
 ---
 
-(dashboard.png)<img width="1452" height="801" alt="Screenshot 2026-04-18 224823" src="https://github.com/user-attachments/assets/caa9e735-ce6e-4012-8780-85c75d7896be" />
+(dashboard.png)<img [width="1452" height="801" alt="Screenshot 2026-04-18 224823" src="https://github.com/user-attachments/assets/caa9e735-ce6e-4012-8780-85c75d7896be"](https://github.com/deepikadhondiyal-analyst/RFM-Analysis/blob/main/RFM%20Score) />
 
 
 
