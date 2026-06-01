@@ -50,7 +50,7 @@ The report uses **RFM scoring logic** (Recency, Frequency, Monetary) to assign e
 | **Recency (R)** | How recently did the customer purchase? | Higher = bought more recently |
 | **Frequency (F)** | How many times have they purchased? | Higher = more transactions |
 | **Monetary (M)** | How much total revenue have they generated? | Higher = more spend |
-
+image.png
 Customers are scored on each dimension and the **Rf_score** (combined Recency + Frequency composite) is used in the matrix on the Overview page to map the distribution of the customer base across engagement levels.
 
 ### Segment Definitions
