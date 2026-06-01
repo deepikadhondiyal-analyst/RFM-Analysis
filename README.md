@@ -1,4 +1,4 @@
-# RFM-Analysis
+
 # 📊 RFM Customer Segmentation Analysis — Power BI Dashboard
 
 > **Transforming transactional data into strategic customer intelligence** — A 2-page interactive Power BI report built on the Superstore dataset that applies RFM (Recency, Frequency, Monetary) scoring to segment customers, track active vs. inactive behaviour by state, and benchmark segment-level profitability and revenue contribution.
@@ -124,40 +124,7 @@ DIVIDE(
 - **Segment-level P&L**: Revenue% vs Profit% by segment exposes which segments drive volume vs. which drive actual margin — critical for pricing and discount strategy
 - **Repeat Rate KPI**: A single metric that benchmarks loyalty program effectiveness over time
 
----
 
-## 📂 Files
-
-| File | Description |
-|---|---|
-| `RFM_Analysis.pbix` | Power BI report file — open in Power BI Desktop |
-
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository
-2. Open `RFM_Analysis.pbix` in **Power BI Desktop**
-3. Connect to your own Superstore-format dataset or replace the sample data
-4. Navigate to **Page 1 (Overview)** to review KPIs and the RFM scoring matrix
-5. Navigate to **Page 2 (Customer Behavior Analysis)** and use the **Profit / Revenue bookmarks** to toggle chart views
-6. Drill into the State-level combo chart to identify geographic engagement drop-offs
-
----
-
-## 📌 Dataset Schema
-
-**Sample_ Superstore**
-- `Customer ID`, `Customer Name`, `Segment`
-- `State`, `Sales`, `Profit`
-- `Order Date`, `Order ID`
-
-**Measure Table** (calculated)
-- `R score`, `F score`, `Rf_score`
-- `Total_Customer`, `Champion_Customer`, `At-Risk_Customer`
-- `Lifetime_Value`, `Repeat_Rate`
-- `Active_Customer`, `Inactive_Customers`, `Cumulative%`
-- `Avg_Revenue`, `Revenue%`, `Profit%`
 
 ---
 
