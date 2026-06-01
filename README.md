@@ -66,7 +66,7 @@ Customers are scored on each dimension and the **Rf_score** (combined Recency + 
 | 🔴 **Inactive / Lost** | Low R, Low F | Re-engagement or deprioritise |
 
 ---
-
+![Dashboard Screenshot](https://github.com/deepikadhondiyal-analyst/RFM-Analysis/blob/main/Screenshot%202026-06-01%20141421.png)
 
 
 ## 🛠️ Tools & Technologies
