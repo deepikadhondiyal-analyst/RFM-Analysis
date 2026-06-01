@@ -131,7 +131,7 @@ DIVIDE(
 ## 👤 Author
 
 **[Deepika Dhondiyal]**  
-Data Analyst | Power BI | DAX | SQL | Python  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com)
+Data Analyst | Power BI | DAX | SQL | Excel
+[LinkedIn](www.linkedin.com/in/deepikadhondiyalofficial)
 
 ---
